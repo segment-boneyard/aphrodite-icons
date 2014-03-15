@@ -7,6 +7,11 @@
   "dependencies": {
     "segmentio/aphrodite-variables": "*"
   },
+  "images": [
+    "lib/images/dark.svg",
+    "lib/images/white.svg",
+    "lib/images/sand.svg"
+  ],
   "styles": [
     "lib/inline.css"
   ]

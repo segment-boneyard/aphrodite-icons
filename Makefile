@@ -1,6 +1,7 @@
 
 build: components lib
 	@component build --dev
+	@myth build/build.css build/build.css
 
 minify:
 	@svgo -f lib/images
