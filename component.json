@@ -1,0 +1,13 @@
+{
+  "name": "aphrodite-icons",
+  "description": "The Segment.io icon set",
+  "version": "0.0.1",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "segmentio/aphrodite-variables": "*"
+  },
+  "styles": [
+    "lib/inline.css"
+  ]
+}

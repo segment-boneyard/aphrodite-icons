@@ -1,0 +1,70 @@
+.InlineIcon {
+  display: inline-block;
+  background: no-repeat center;
+}
+
+/**
+ * Colors
+ */
+
+.InlineIcon[color="white"] {
+  background-image: url('images/white.svg');
+}
+
+.InlineIcon[color="dark"] {
+  background-image: url('images/dark.svg');
+}
+
+.InlineIcon[color="sand"] {
+  background-image: url('images/sand.svg');
+}
+
+/**
+ * 16x16 icons
+ */
+
+.InlineIcon[size="16"] {
+  height: 16px;
+  width: 16px;
+}
+
+.InlineIcon[icon="cog"][size="16"] {
+  background-position: -16px -16px;
+}
+
+.InlineIcon[icon="wrench"][size="16"] {
+  background-position: -32px -16px;
+}
+
+.InlineIcon[icon="graph"][size="16"] {
+  background-position: -48px -16px;
+}
+
+.InlineIcon[icon="switch"][size="16"] {
+  background-position: -64px -16px;
+}
+
+/**
+ * 32x32 icons
+ */
+
+.InlineIcon[size="32"] {
+  height: 32px;
+  width: 32px;
+}
+
+.InlineIcon[icon="cog"][size="32"] {
+  background-position: -16px -32px;
+}
+
+.InlineIcon[icon="wrench"][size="32"] {
+  background-position: -48px -32px;
+}
+
+.InlineIcon[icon="graph"][size="32"] {
+  background-position: -80px -32px;
+}
+
+.InlineIcon[icon="switch"][size="32"] {
+  background-position: -112px -16px;
+}
