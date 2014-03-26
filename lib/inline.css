@@ -96,3 +96,24 @@
 .InlineIcon[icon="switch"][size="32"] {
   background-position: -112px -32px;
 }
+
+/**
+ * 48x48 icons
+ */
+
+.InlineIcon[size="48"] {
+  height: 48px;
+  width: 48px;
+}
+
+.InlineIcon[icon="browser"][size="48"] {
+  background-position: -16px -64px;
+}
+
+.InlineIcon[icon="mobile"][size="48"] {
+  background-position: -64px -64px;
+}
+
+.InlineIcon[icon="server"][size="48"] {
+  background-position: -112px -64px;
+}
