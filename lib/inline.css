@@ -23,6 +23,10 @@
   background-image: url('images/green.svg');
 }
 
+.InlineIcon[color="dark-green"] {
+  background-image: url('images/dark-green.svg');
+}
+
 /**
  * 16x16 icons
  */
@@ -46,6 +50,26 @@
 
 .InlineIcon[icon="switch"][size="16"] {
   background-position: -64px -16px;
+}
+
+.InlineIcon[icon="external"][size="16"] {
+  background-position: -80px -16px;
+}
+
+.InlineIcon[icon="arrow-right"][size="16"] {
+  background-position: -96px -16px;
+}
+
+.InlineIcon[icon="question"][size="16"] {
+  background-position: -112px -16px;
+}
+
+.InlineIcon[icon="exclamation"][size="16"] {
+  background-position: -128px -16px;
+}
+
+.InlineIcon[icon="cross"][size="16"] {
+  background-position: -144px -16px;
 }
 
 /**
