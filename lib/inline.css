@@ -27,6 +27,10 @@
   background-image: url('images/dark-green.svg');
 }
 
+.InlineIcon[color="red"] {
+  background-image: url('images/red.svg');
+}
+
 /**
  * 16x16 icons
  */

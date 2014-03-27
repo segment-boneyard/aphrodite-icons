@@ -12,7 +12,8 @@
     "lib/images/white.svg",
     "lib/images/sand.svg",
     "lib/images/green.svg",
-    "lib/images/dark-green.svg"
+    "lib/images/dark-green.svg",
+    "lib/images/red.svg"
   ],
   "styles": [
     "lib/inline.css"
