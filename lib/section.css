@@ -1,0 +1,59 @@
+/**
+ * Section Icons
+ */
+
+.SectionIcon {
+  width: 100px;
+  height: 100px;
+  background-image: url('images/section.svg');
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.SectionIcon[icon="tools"][size="100"][color="green"] {
+  background-position: -192px 0;
+}
+
+.SectionIcon[icon="storage"][size="100"][color="green"] {
+  background-position: -302px 0;
+}
+
+.SectionIcon[icon="support"][size="100"][color="green"] {
+  background-position: -412px 0;
+}
+
+/**
+ * Tools
+ */
+
+.SectionIcon[icon="tools"][size="50"][color="sand"] {
+  background-position: 0 -26px;
+}
+
+.SectionIcon[icon="tools"][size="50"][color="green"] {
+  background-position: 0 -86px;
+}
+
+/**
+ * Storage
+ */
+
+.SectionIcon[icon="storage"][size="50"][color="sand"] {
+  background-position: -60px -26px;
+}
+
+.SectionIcon[icon="storage"][size="50"][color="green"] {
+  background-position: -60px -86px;
+}
+
+/**
+ * Support
+ */
+
+.SectionIcon[icon="support"][size="50"][color="green"] {
+  background-position: -120px -26px;
+}
+
+.SectionIcon[icon="support"][size="50"][color="green"] {
+  background-position: -120px -86px;
+}

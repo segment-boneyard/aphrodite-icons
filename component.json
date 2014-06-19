@@ -2,20 +2,18 @@
   "name": "aphrodite-icons",
   "description": "The Segment.io icon set",
   "version": "0.0.1",
-  "keywords": [],
   "license": "MIT",
-  "dependencies": {
-    "segmentio/aphrodite-variables": "*"
-  },
   "images": [
     "lib/images/dark.svg",
     "lib/images/white.svg",
     "lib/images/sand.svg",
     "lib/images/green.svg",
     "lib/images/dark-green.svg",
-    "lib/images/red.svg"
+    "lib/images/red.svg",
+    "lib/images/section.svg"
   ],
   "styles": [
-    "lib/inline.css"
+    "lib/inline.css",
+    "lib/section.css"
   ]
 }
