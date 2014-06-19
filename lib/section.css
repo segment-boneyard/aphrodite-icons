@@ -3,12 +3,33 @@
  */
 
 .SectionIcon {
-  width: 100px;
-  height: 100px;
+  display: inline-block;
   background-image: url('images/section.svg');
   background-size: auto;
   background-repeat: no-repeat;
 }
+
+/**
+ * 50x50
+ */
+
+.SectionIcon[size="50"] {
+  width: 50px;
+  height: 50px;
+}
+
+/**
+ * 100x100
+ */
+
+.SectionIcon[size="100"] {
+  width: 100px;
+  height: 100px;
+}
+
+/**
+ * Large icons
+ */
 
 .SectionIcon[icon="tools"][size="100"][color="green"] {
   background-position: -192px 0;
