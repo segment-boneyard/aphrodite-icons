@@ -4,7 +4,7 @@
 
 .SectionIcon {
   display: inline-block;
-  background-image: url('images/section.svg');
+  background-image: url('images/section-icon.svg');
   background-size: auto;
   background-repeat: no-repeat;
 }
@@ -28,31 +28,23 @@
 }
 
 /**
- * Large icons
- */
-
-.SectionIcon[icon="tools"][size="100"][color="green"] {
-  background-position: -192px 0;
-}
-
-.SectionIcon[icon="storage"][size="100"][color="green"] {
-  background-position: -302px 0;
-}
-
-.SectionIcon[icon="support"][size="100"][color="green"] {
-  background-position: -412px 0;
-}
-
-/**
  * Tools
  */
 
 .SectionIcon[icon="tools"][size="50"][color="sand"] {
-  background-position: 0 -26px;
+  background-position: -375px -300px;
 }
 
 .SectionIcon[icon="tools"][size="50"][color="green"] {
-  background-position: 0 -86px;
+  background-position: -375px -375px;
+}
+
+.SectionIcon[icon="tools"][size="100"][color="green"] {
+  background-position: -600px -300px;
+}
+
+.SectionIcon[icon="tools"][size="100"][color="sand"] {
+  background-position: -600px -425px;
 }
 
 /**
@@ -60,21 +52,97 @@
  */
 
 .SectionIcon[icon="storage"][size="50"][color="sand"] {
-  background-position: -60px -26px;
+  background-position: -450px -300px;
 }
 
 .SectionIcon[icon="storage"][size="50"][color="green"] {
-  background-position: -60px -86px;
+  background-position: -450px -375px;
+}
+
+.SectionIcon[icon="storage"][size="100"][color="green"] {
+  background-position: -725px -300px;
+}
+
+.SectionIcon[icon="storage"][size="100"][color="sand"] {
+  background-position: -725px -425px;
 }
 
 /**
  * Support
  */
 
-.SectionIcon[icon="support"][size="50"][color="green"] {
-  background-position: -120px -26px;
+.SectionIcon[icon="support"][size="50"][color="sand"] {
+  background-position: -525px -300px;
 }
 
 .SectionIcon[icon="support"][size="50"][color="green"] {
-  background-position: -120px -86px;
+  background-position: -525px -375px;
+}
+
+.SectionIcon[icon="support"][size="100"][color="green"] {
+  background-position: -850px -300px;
+}
+
+.SectionIcon[icon="support"][size="100"][color="sand"] {
+  background-position: -850px -425px;
+}
+
+/**
+ * Build
+ */
+
+.SectionIcon[icon="build"][size="50"][color="sand"] {
+  background-position: -300px -300px;
+}
+
+.SectionIcon[icon="build"][size="50"][color="green"] {
+  background-position: -300px -375px;
+}
+
+.SectionIcon[icon="build"][size="100"][color="green"] {
+  background-position: -975px -300px;
+}
+
+.SectionIcon[icon="build"][size="100"][color="sand"] {
+  background-position: -975px -425px;
+}
+
+/**
+ * Settings
+ */
+
+.SectionIcon[icon="settings"][size="50"][color="sand"] {
+  background-position: -225px -300px;
+}
+
+.SectionIcon[icon="settings"][size="50"][color="green"] {
+  background-position: -225px -375px;
+}
+
+.SectionIcon[icon="settings"][size="100"][color="green"] {
+  background-position: -600px -550px;
+}
+
+.SectionIcon[icon="settings"][size="100"][color="sand"] {
+  background-position: -600px -675px;
+}
+
+/**
+ * Chat
+ */
+
+.SectionIcon[icon="chat"][size="50"][color="sand"] {
+  background-position: -150px -300px;
+}
+
+.SectionIcon[icon="chat"][size="50"][color="green"] {
+  background-position: -150px -375px;
+}
+
+.SectionIcon[icon="chat"][size="100"][color="green"] {
+  background-position: -725px -550px;
+}
+
+.SectionIcon[icon="chat"][size="100"][color="sand"] {
+  background-position: -725px -675px;
 }
