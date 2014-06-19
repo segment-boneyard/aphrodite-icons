@@ -10,7 +10,7 @@
     "lib/images/green.svg",
     "lib/images/dark-green.svg",
     "lib/images/red.svg",
-    "lib/images/section.svg"
+    "lib/images/section-icon.svg"
   ],
   "styles": [
     "lib/inline.css",
