@@ -146,3 +146,39 @@
 .SectionIcon[icon="chat"][size="100"][color="sand"] {
   background-position: -625px -425px;
 }
+
+/**
+ * Card
+ */
+
+.SectionIcon[icon="card"][size="50"][color="sand"] {
+  background-position: -50px -200px;
+}
+
+.SectionIcon[icon="card"][size="50"][color="green"] {
+  background-position: -50px -275px;
+}
+
+/**
+ * Enterprise
+ */
+
+.SectionIcon[icon="enterprise"][size="50"][color="sand"] {
+  background-position: -125px -200px;
+}
+
+.SectionIcon[icon="enterprise"][size="50"][color="green"] {
+  background-position: -125px -275px;
+}
+
+/**
+ * Bug
+ */
+
+.SectionIcon[icon="bug"][size="50"][color="sand"] {
+  background-position: -200px -200px;
+}
+
+.SectionIcon[icon="bug"][size="50"][color="green"] {
+  background-position: -200px -275px;
+}
