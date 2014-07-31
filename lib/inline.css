@@ -76,6 +76,18 @@
   background-position: -144px -16px;
 }
 
+.InlineIcon[icon="tick"][size="16"] {
+  background-position: -160px -16px;
+}
+
+.InlineIcon[icon="mail"][size="16"] {
+  background-position: -176px -16px;
+}
+
+.InlineIcon[icon="book"][size="16"] {
+  background-position: -192px -16px;
+}
+
 /**
  * 32x32 icons
  */
