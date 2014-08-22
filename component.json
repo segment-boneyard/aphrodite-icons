@@ -1,7 +1,7 @@
 {
   "name": "aphrodite-icons",
   "description": "The Segment.io icon set",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "images": [
     "lib/images/dark.svg",
