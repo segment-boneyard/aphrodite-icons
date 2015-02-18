@@ -92,6 +92,10 @@
   background-position: -208px -16px;
 }
 
+.InlineIcon[icon="search"][size="16"] {
+  background-position: -225px -16px;
+}
+
 /**
  * 32x32 icons
  */
