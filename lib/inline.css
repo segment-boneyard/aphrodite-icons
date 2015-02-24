@@ -96,6 +96,10 @@
   background-position: -224px -16px;
 }
 
+.InlineIcon[icon="plan"][size="16"] {
+  background-position: -240px -16px;
+}
+
 /**
  * 32x32 icons
  */
